@@ -3,4 +3,10 @@ Analysis on the company Pewlett-Hackard and its employees, specifically employee
 
 ## Results
 Retiring employees within the company by title:
-![Retiring_employees](https://user-images.githubusercontent.com/117749494/210860729-6d1d27eb-3d5d-4706-a758-c76b7ceaee5d.PNG)
+![Retiring_employees](https://user-images.githubusercontent.com/117749494/210862517-9b86d3d7-6131-4318-b282-453e1506afc5.PNG)
+
+
+The image above shows the numbers of retiting employees by title. There will be a lot of positions to fill when retirment comes. The image above shows a total of 72458 employees retiring. With a closer a look its shows that most of the employees retiring are either Senior Engineers or Senior Staff. With the least amout who are managers. Looking at this image, PH (Pewlett-Hackard) can focus more on filling employment in Senior Engineer and Senior Staff. 
+
+Qualifed Mentorship Program Employees:
+![mentorship_employees](https://user-images.githubusercontent.com/117749494/210867992-e271332b-1f26-449f-90b0-8af91ea47865.PNG)
